@@ -20,7 +20,7 @@ You can install the all requirements from **requirements.txt** by using pip.
 **Encode**
 
  - Choose *Encode* in the options menu
- ![enter image description here](https://i.ibb.co/DLvS9qj/imghide-2-png)
+ ![enter image description here](https://i.ibb.co/DLvS9qj/imghide-2-png.png)
  
  - Enter the image path (with extension)
  ![enter image description here](https://i.ibb.co/ZKkzWWr/imghide-3.png)
